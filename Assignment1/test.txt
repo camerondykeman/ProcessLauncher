@@ -1,0 +1,6 @@
+1,ShellError - Copy,7
+2,ShellError,42
+5,ShellError,100 2000
+7,ShellError,43 5000
+5,ShellError,101 2000
+5,ShellError,102 2000
